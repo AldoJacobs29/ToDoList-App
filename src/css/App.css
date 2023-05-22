@@ -52,7 +52,7 @@ body {
 }
 .add-btn {
   margin-left: 1rem;
-  background-color: #271c6c;
+  background-color: #3c2ab3;
   color: #e1ebfd;
   border-radius: 8px;
   border: 2px solid #e1ebfd;
@@ -61,7 +61,7 @@ body {
   height: 3rem;
   padding: 0 1.6rem;
   cursor: pointer;
-  box-shadow: 2px 4px 10px #271c6c;
+  box-shadow: 2px 4px 10px #3c2ab3;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -100,7 +100,7 @@ body {
 .card {
   display: flex;
   flex-direction: column;
-  background: rgb(180, 182, 218);
+  background: rgb(218, 218, 219);
   background: radial-gradient(circle, hsla(237, 34%, 78%, 0.9) 0%), hsla(219, 88%, 94%, 0.9) 100%;
   margin: 0 1rem 1rem 0;
   height: 9rem;
